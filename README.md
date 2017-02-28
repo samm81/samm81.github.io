@@ -1,4 +1,4 @@
-Blog built in minutes without touching the command line. Forked from [https://github.com/barryclark/jekyll-now][]. Used the command line.
+Blog built in minutes without touching the command line. Forked from https://github.com/barryclark/jekyll-now. Used the command line.
 
 Original README follows.
 
