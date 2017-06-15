@@ -5,12 +5,14 @@ title: Adventures with Alcoholic Boba
 
 It's not often one gets to witness the birth of a culinary revolution.
 
-I've been visiting my friend [Avikar][1] these past two weeks at Caltech, hanging out, going to ditch day, working on a project, eating [lots][2] of [food][3] and [boba][4], when all of the sudden one of Avikar's friends casually mentions something about alcoholic boba.
+I've been visiting my friend [Avikar][1] these past two weeks at Caltech, hanging out, [going to ditch day][9], working on a project, eating [lots][2] of [food][3] and [boba][4], when all of the sudden one of Avikar's friends casually mentions something about alcoholic boba.
 
 [1]: https://aviplane.github.io/
 [2]: http://bpgroupusa.com/concept/
 [3]: http://www.halfandhalfteaexpress.com/
 [4]: http://factoryteabar.com/
+
+[9]: /ditch-day
 
 "WHAT" I say, turning towards him. Me and my friend [Karthik Bala][5] have spent some time theorizing about the possibility of alcoholic boba. I thought it would be disgusting. My imaginary shot of vodka poured over a heap of tapioca balls did nothing but trigger my gag reflex. But Karthik was insistent. He believed it was viable. "I'm going to start my own alcoholic boba business, and when I've made millions you're going to be crying at my feet" he told me. Well somebody beat you to it Karthik.
 
