@@ -1,0 +1,12 @@
+---
+layout: post
+title: Discretionary Spending Wage
+---
+
+I had my first job in the summer between my Sophomore and Junior years of high school. I worked at the National Institutes of Health as a programming intern, and I was flush with cash making 10.25 an hour. This being the first time in my life I had discretionary income, I went wild. Everyday on my way home from work I would pass by the soda machine. "Hey, kid," it would beckon "hey, look, I got this nice and cold Dr. Pepper over here, it's only a buck twenty five, really nice deal." I would stand in front of the machine agonizing. "`$1.25 / $10.25/hr = 0.12hr, 0.12hr * 60min/hr = 7.2min`... so really, I'm just paying seven minutes of work for this soda. That's nothing!" And so, the vending machine and my wallet would end the day a little lighter.
+
+It's tempting to continue to use this logic to justify purchases, especially now that my salary is higher. At $40 an hour that soda is now only 1.88 minutes of my time. Not even worthy of second thought. But this is a flawed method! As every personal finance website on the internet tells you, you have to pay your debts before buying soda. You have to calculate your *discretionary wage*. It's exactly what it sounds like. I'll demonstrate:
+
+I make forty dollars an hour, but I only work twelve weeks a year, during the summer. `12weeks * 40hr/week * $40/hr = $19,200`. Let's estimate I don't pay taxes (or that I do and I get it all back). My parents pay for my tuition, so that leaves housing and food and necessities. My housing this year will be about $650 a month, utilities are about $50, estimate food at $250, other misc necessities at $150, that's spending of `$650 + $250 + $150 = $1,050` a month. `$1,050/month * 12months = $12,600` in necessary expenditures. This leaves `$19,200 - $12,600 = $6,600` as discretionary income. I worked `12weeks * 40hr/week = 480hr` to make that `$6,600` of discretionary income, so I made `$6,600 / 480hr = 13.75` discretionary dollars per hour. So that soda jumps from 1.88 minutes to `$1.75 / $13.75/hr * 60min/hr = 7.64min`, like my high school days! And back then I had no necessary expenditures, so I'm actually in a similar position financially despite making four times as much. I don't buy as many sodas anymore though...
+
+Here's the formula. If `e` is how much you earn per year, `h` is how many hours you work per year, and `n` is the sum of your necessary expenses per year, then `(n - e) / h` is your discretionary income wage. Easy!
