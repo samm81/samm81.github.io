@@ -1,0 +1,9 @@
+session_name: blog
+windows:
+- focus: 'true'
+  layout: main-vertical
+  panes:
+  - jekyll serve
+  - git status
+  start_directory: /home/sam/samm81.github.io
+  window_name: tmuxp
