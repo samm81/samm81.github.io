@@ -4,8 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Junior at UT Austin. Turing Scholar.
-
-### Contact me
-
-[samwmaynard@gmail.com](mailto:samwmaynard+blog@gmail.com)
+Senior at UT Austin. Turing Scholar. Pursuing Computer Science major with Mandarin minor. Graduate of Montgomery Blair High School.
