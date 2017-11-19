@@ -5,5 +5,7 @@ windows:
   layout: main-vertical
   panes:
   - jekyll serve
-  - git status
+  - shell_command:
+    - git status
+    - gem outdated | grep github-pages
   window_name: tmuxp

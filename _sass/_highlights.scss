@@ -6,13 +6,19 @@
   -moz-box-shadow: 3px 3px rgba(0,0,0,0.1);
   -webkit-box-shadow: 3px 3px rgba(0,0,0,0.1);
   box-shadow: 3px 3px rgba(0,0,0,0.1);
-  margin: 20px 0 20px 0;
-  //overflow: scroll;
+  margin: 0;
+  overflow: auto;
 }
 
 code {
   font-family:'Bitstream Vera Sans Mono','Courier', monospace;
   //background-color: lighten(lightgray, 13%);
+}
+
+// fix for double code bos, as per https://github.com/saveriomiroddi/saveriomiroddi.github.io/commit/44c56afa1b5c1487e783d469e8bb8b3762188845
+.highlight .highlight {
+  border: none;
+  box-shadow: none;
 }
 
 // Taken from https://raw.githubusercontent.com/mojombo/tpw/master/css/syntax.css

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3D Printed Earrings
+title: 3D Printing Earrings
 ---
 
 My girlfriend, [Rachel](https://github.com/racheljenniferkao), and I have our anniversary on April 23rd. April 23rd is pretty close to my birthday, April 2nd, so Rachel also makes us celebrate our mid-year anniversary on October 23rd, since it's close to her birthday. That way I spend October being stressed about making her two gifts, and she spends April being stressed about making me two gifts. This year, Rachel had been strongly hinting to me that she wanted a pair of earrings, as she lost the back to the last pair I got her (the part that holds it in place). Of course, I didn't want to just get her another pair of boring old earrings... So I set out to make my own.
