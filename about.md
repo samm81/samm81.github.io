@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Senior at UT Austin. Turing Scholar. Pursuing Computer Science major with Mandarin minor. Graduate of Montgomery Blair High School.
+Graduate of UT Austin. Turing Scholar. Computer Science major with Mandarin minor. Also a graduate of Montgomery Blair High School.
