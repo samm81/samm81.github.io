@@ -5,7 +5,7 @@ title: Take Back Facebook
 
 Those of you who know me well are probably aware that Facebook and I have beef. Well, Facebook couldn't care less about me, but _I_ have a problem with Facebook. So I've decided to actually do something about it, instead of changing my profile picture everyday (topic of a future post). To that end, I've created [Take Back Facebook][1].
 
-[1]: https://chrome.google.com/webstore/detail/take-back-facebook/gnjmojjcphkjphdbkopckplgeohkppfd
+[1]: https://chrome.google.com/webstore/detail/tbf/gifdgffbjfnnhfceaagogpkibefdgjio
 
 So what, exactly, is my problem with Facebook? Well, [study][2] after [study][3] after [study][4] shows that Facebook makes you unhappy (I found these three within minutes of googling, I'm sure there are many more). Among my friends and classmates I see people sitting in lecture, laptops open, Facebook pulled up, scrolling past an endless feed of cooking videos, "@A has to buy you applebees" and vacation photos. I know people who fret over the number of likes their most recent profile picture is receiving, or spend a day of their vacation trying to take a newer better profile picture. Walking through the library on campus I see student after student with their books open, lecture slides open, notebook open - and are idly scrolling through Facebook on their phones. Facebook blockers are a dime a dozen, but most people I know don't use them anymore because they always ended up disabling them...
 
