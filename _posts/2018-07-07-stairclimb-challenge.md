@@ -59,7 +59,7 @@ Songs with a BPM of ~200 (2-2.5 minute summit):
 * Josie - Blink 182
 * Nobody's Listening - Linkin Park
 * Addicted - Kelly Clarkson
-* https://jog.fm/workout-songs/at/200/bpm?sort=popularity
+* [https://jog.fm/workout-songs/at/200/bpm?sort=popularity](https://jog.fm/workout-songs/at/200/bpm?sort=popularity)
 
 Songs with a BPM of 175 (2.5 minute summit):
 * Footloose - Kenny Loggins
@@ -67,7 +67,7 @@ Songs with a BPM of 175 (2.5 minute summit):
 * Love the Way You Lie - Eminem
 * Dancing With Myself - Billy Idol
 * Ocean Avenue - Yellowcard
-* https://jog.fm/workout-songs/at/175/bpm?sort=popularity
+* [https://jog.fm/workout-songs/at/175/bpm?sort=popularity](https://jog.fm/workout-songs/at/175/bpm?sort=popularity)
 
 Songs with a BPM of 150 (3 minute summit):
 * Mr. Brightside - The Killers
@@ -75,7 +75,7 @@ Songs with a BPM of 150 (3 minute summit):
 * Brown Eyed Girl - Van Morrison
 * Holding Out for a Hero - Bonnie Tyler
 * We're Not Gonna Take It - Twisted Sister
-* https://jog.fm/workout-songs/at/150/bpm?sort=popularity
+* [https://jog.fm/workout-songs/at/150/bpm?sort=popularity](https://jog.fm/workout-songs/at/150/bpm?sort=popularity)
 
 Songs with a BPM of 125 (3.5 minute summit):
 * Firework - Katy Perry
@@ -83,7 +83,7 @@ Songs with a BPM of 125 (3.5 minute summit):
 * Like a G6 - Far East Movement
 * Born This Way - Lady GaGa
 * Bulletproof - La Roux
-* https://jog.fm/workout-songs/at/125/bpm?sort=popularity
+* [https://jog.fm/workout-songs/at/125/bpm?sort=popularity](https://jog.fm/workout-songs/at/125/bpm?sort=popularity)
 
 Song with a BPM of 110 (4 minute summit):
 * Eye of the Tiger - Survivor
@@ -91,7 +91,7 @@ Song with a BPM of 110 (4 minute summit):
 * Another One Bites the Dust - Queen
 * Just the Way You Are - Bruno Mars
 * Livin' On a Prayer - Bon Jovi
-* https://jog.fm/workout-songs/at/110/bpm?sort=popularity
+* [https://jog.fm/workout-songs/at/110/bpm?sort=popularity](https://jog.fm/workout-songs/at/110/bpm?sort=popularity)
 
 You get the idea.
 
