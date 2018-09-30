@@ -5,7 +5,7 @@ title: Sea Salt Cold Foam Cold Brew Milk Tea
 
 Or SSCFCBMT for short.
 
-The first time I encountered sea salt cold foam milk tea (or milk cap milk tea or cheese cap milk tea) was as a new addition to the menu of the Kung Fu Tea I frequented back during undergrad. Being an adventurous guy I decided to give it a try. It was served as a normal milk tea with a generous layer of cream at the top and I shook it all together on reflex, as I had learned long ago that this was the [correct way to drink boba][1]. I took a sip and was repulsed - it was salty! What the hell was this?? I finished about half of it and tossed it out.
+The first time I encountered sea salt cold foam milk tea (or milk cap milk tea or cheese cap milk tea) was as a new addition to the menu of the Kung Fu Tea I frequented back during undergrad. Being an adventurous guy, I decided to give it a try. It was served as a normal milk tea with a generous layer of cream at the top and I shook it all together on reflex, as I had learned long ago that this was the [correct way to drink boba][1]. I took a sip and was repulsed - it was salty! What the hell was this?? I finished about half of it and tossed it out.
 
 [1]: https://www.quora.com/How-can-I-drink-bubble-tea-to-ensure-that-I-finish-the-bubbles-and-the-tea-at-around-the-same-time
 
