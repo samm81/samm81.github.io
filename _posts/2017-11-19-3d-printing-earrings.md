@@ -60,8 +60,11 @@ It did get me an example of the first several hundred hours of hour chats though
 
 Remember what I said earlier? If I can't do it in OpenSCAD, I won't be able to do it in any of the alternatives either. They all compiled to OpenSCAD, which would still be limited by the maximum recursion depth...
 
-The problem isn't the number of objects, it's the fact that OpenSCAD has to keep track of all the previous rotates and transforms. If I could hand a precomputed list of positions to OpenSCAD it would work fine. I just needed to do my own rotate and transform math ahead of time and simplify OpenSCAD into a rendering engine. Time for some quick maths:
+The problem isn't the number of objects, it's the fact that OpenSCAD has to keep track of all the previous rotates and transforms. If I could hand a precomputed list of positions to OpenSCAD it would work fine. I just needed to do my own rotate and transform math ahead of time and simplify OpenSCAD into a rendering engine. Time for some [quick maths][7]:
 
+[7]: https://www.youtube.com/watch?v=3M_5oYU-IsU
+
+{% raw %}
 ```python
 def normalize(total, vec):
   length = sqrt(vec[0] ** 2 + vec[1] ** 2)
@@ -87,6 +90,7 @@ with open('earring_points.scad', 'w') as scadfile:
     pos_vec = [ old_pos_comp + vel_comp for old_pos_comp, vel_comp in zip(pos_vec, vel_vec) ]
     scadfile.write('translate({}){{\nsphere(r, $fn=fn);\n}}\n'.format(str(pos_vec)))
 ```
+{% endraw %}
 
 Rather than using rotates and transforms, I kept track of a current position vector (initially 0), a velocity vector (initially slightly positive in the y direction), and an acceleration vector (initially 0). From there it was pretty simply. Loop through the hours. If we had chatted, set the acceleration vector to 0. If not, set the acceleration vector to point 90 degrees to the left from the velocity vector. This is what would cause the inward rotation. Add the acceleration vector to the velocity vector, normalize the velocity vector, add the velocity vector to the current position, and we have our new position! Append another simple translate-and-place-sphere OpenSCAD command to an output file, and in the end we have 13,370 spheres ready for rendering. The 'compiled' file looked something like this:
 
@@ -102,7 +106,7 @@ After some playing with parameters, this actually resulted in something respecta
 
 ![attempt 2](/assets/3d-printed-earrings/attempt2.png)
 
-At this point I had labored for over ten hours over two days. Every time I had free time I would pull out my laptop and keep working on it. Getting this to render for the first time was amazing. But as I looked at it my heart sank. Yes, it was a representation that was special to us. Yes, it could be worn as an earring. But it wasn't... beautiful. It wasn't stylish. It looked like a lump of spaghetti.
+At this point I had labored for ten plus hours over the course of two days. Every time I had free time I would pull out my laptop and keep working on it. Getting this to render for the first time was amazing. But as I looked at it my heart sank. Yes, it was a representation that was special to us. Yes, it could be worn as an earring. But it wasn't... beautiful. It wasn't stylish. It looked like a lump of spaghetti.
 
 I would have to try something else.
 
