@@ -16,8 +16,8 @@ IN FACT, I became such a snob that I decided I had to try it myself. The recipe 
 Sea Salt Cold Foam Cold Brew Milk Tea.
 
 <div class="video">
-   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
-       <source src="/assets/sscfcbmt/sscfcbmt.webm"  type="video/webm"  />
+   <video style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+       <source src="/assets/sscfcbmt/sscfcbmt.mp4" type="video/webm" />
    </video>
 </div>
 
