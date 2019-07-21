@@ -1,0 +1,28 @@
+<hr>
+
+<div class="comments">
+    <form class="pure-form pure-form" action="https://formspree.io/samwmaynard+blogcomment@gmail.com" method="POST">
+        <fieldset>
+            <legend style="border-bottom: none; margin-bottom: -8px;">Leave a comment!</legend>
+
+            <fieldset class="pure-group">
+                <input class="pure-input-1-2" name="name" type="text" placeholder="Name" required>
+                <input class="pure-input-1-2" name="_replyto" type="email" placeholder="Email (if you want to allow me to respond)">
+            </fieldset>
+
+            <textarea class="pure-input-1" name="comment" placeholder="Your esteemed comment" required></textarea>
+
+            <label for="publish-ok" class="pure-checkbox">
+                <input id="publish-ok" type="checkbox"> I agree to allow my comment to be published (optional)
+            </label>
+
+            <input type="hidden" name="post" value="{{ include.post.title }}" />
+            <input type="hidden" name="_subject" value="New comment on {{ include.post.title }}" />
+            <!--<input type="hidden" name="_next" value="{{ site.url }}{{ include.post.url }}" />-->
+
+            <div class="pure-controls">
+                <button type="submit" value="Send" class="pure-button pure-button-primary">Submit</button>
+            </div>
+        </fieldset>
+    </form>
+</div>
