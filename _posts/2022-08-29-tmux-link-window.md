@@ -1,6 +1,6 @@
 ---
 layout: post
-title: `tmux link-window`
+title: tmux link-window
 ---
 
 `tmux` is my [multiplexer][1] of choice, and I love it, but a part of the workflow didn't work quite right for me. I use [org-mode][2] for emacs and would keep a dedicated [session][3] open with just a single window in which I had `emacs` up. Context switching from other work to org (to clock in or out of a task, for example) would require `Prefix s` (I use `C-q` for my [prefix][4]) -> navigate to org session -> do org work -> `Prefix s` -> navigate back to work session.
