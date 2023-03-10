@@ -1,6 +1,6 @@
 ---
 layout: post
-title: `express-openid-connect` and in-flight requests
+title: express-openid-connect and in-flight requests
 ---
 
 you've written your front end piece. you need serve it somehow. ok. spin up a quick `express` server. you want multiple people to use it. ugh. ok. get your auth0 account, go through their setup flow, everything looks good. except...
