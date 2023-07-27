@@ -9,3 +9,7 @@
         gtag('config', '{{ site.google_analytics }}');
     </script>
 {% endif %}
+
+{% if site.plausible_domain %}
+    <script defer data-domain="{{ site.plausible_domain }}" src="https://plausible.io/js/script.js"></script>
+{% endif %}
