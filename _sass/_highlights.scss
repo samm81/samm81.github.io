@@ -12,7 +12,17 @@
 
 code {
   font-family:'Bitstream Vera Sans Mono','Courier', monospace;
-  //background-color: lighten(lightgray, 13%);
+  padding-left: 3px;
+  padding-right: 3px;
+  border-radius: 3px;
+  // as suggested by @quelklef
+  font-size: .935em;
+  letter-spacing: -.35px;
+  background-color: rgba(0,0,0,0.05);
+}
+pre code {
+  padding: 0;
+  background: none;
 }
 
 // fix for double code bos, as per https://github.com/saveriomiroddi/saveriomiroddi.github.io/commit/44c56afa1b5c1487e783d469e8bb8b3762188845
