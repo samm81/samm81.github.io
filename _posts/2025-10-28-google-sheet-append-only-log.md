@@ -30,7 +30,7 @@ the `view` sheet has one row for each text - the most recently appended row. so 
 
 `data_idx` glues the original row number onto each record, `QUERY` pulls the newest row for every status bucket, `FILTER` keeps those winners, and `SORT` drops the freshest entries at the top. `CHOOSECOLS` strips the helper column and `VSTACK` restores the header row. the result is a read-only sheet that always shows the latest note per status without touching the underlying history.
 
-add some conditional formatting ("Custom formula" ➡️ `=$C2="done" ➡️ green cell as an example) and tada:
+add some conditional formatting ("Custom formula" ➡️ `=$C2="done"` ➡️ green cell as an example) and tada:
 
 ![query sheet with compacted view](/assets/google-sheet-append-only-log/query.png)
 
