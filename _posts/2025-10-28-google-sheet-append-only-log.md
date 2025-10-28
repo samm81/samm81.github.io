@@ -15,7 +15,7 @@ the `log` sheet is the raw feed. four columns: `date`, `task` (basically the top
 
 the `view` sheet has one row for each text - the most recently appended row. so it functions as a "current status" view into every task.
 
-```plain text
+```
 =LET(
   headers, log!1:1,
   data, log!A2:Y,
