@@ -7,7 +7,7 @@ as a software engineer I’ve developed an obsession with hoarding data. deletin
 
 append-only logs show up everywhere: database write-ahead logs, kafka topics, git histories. the trick is simple - never rewrite the past, only append new facts. the benefit is that you can always reconstruct how you got to any current state. I wanted that same property in sheets, plus a friendly read-only view so nobody had to scroll through every update just to find "what’s the latest?"
 
-here's the sheet if you want to follow along at home, or adjust for your own uses: https://docs.google.com/spreadsheets/d/1uSnwpaANF7Ng_4-tehIlXysvoYlZJUtFmdOPUqQlkdg/edit?usp=sharing
+here's the sheet if you want to follow along at home, or adjust for your own uses: <https://docs.google.com/spreadsheets/d/1uSnwpaANF7Ng_4-tehIlXysvoYlZJUtFmdOPUqQlkdg/edit?usp=sharing>
 
 the `log` sheet is the raw feed. four columns: `date`, `task` (basically the topic), `status` (essentially an enum that's used for coloring the columns in the view), and a free-text `update`. `date` is plain text and I stamp it with `ctrl+;` (or type the full timestamp). `status` uses a dropdown for convenience. the rule is absolute: never edit or delete a row - append another one instead.
 
