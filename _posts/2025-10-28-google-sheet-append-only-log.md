@@ -18,7 +18,7 @@ the `view` sheet consists of a single formula, and is meant to be read-only. the
 ```
 =LET(
   headers, log!1:1,
-  data, log!A2:Y,
+  data, log!A2:Z,
   data_idx, {MAP(INDEX(data,,1), LAMBDA(r, ROW(r))), data},
   idxs, QUERY(data_idx, "select max(Col1) where Col3 is not null group by Col3", 0),
   updates, FILTER(data_idx, ISNUMBER(MATCH(INDEX(data_idx,,1), INDEX(idxs,,1), 0))),
@@ -30,7 +30,7 @@ the `view` sheet consists of a single formula, and is meant to be read-only. the
 
 `data_idx` glues the original row number onto each record, `QUERY` pulls the newest row for every status bucket, `FILTER` keeps those winners, and `SORT` drops the freshest entries at the top. `CHOOSECOLS` strips the helper column and `VSTACK` restores the header row. the result is a read-only sheet that always shows the latest note per status without touching the underlying history.
 
-add some conditional formatting ("Custom formula" ➡️ `=$C2="done"` ➡️ green cell as an example) and tada:
+add some conditional formatting (select entire sheet → Format menu → Conditional formatting → Format rules → "Custom formula is" → `=$C2="done"` → green (as an example)) and tada:
 
 ![query sheet with compacted view](/assets/google-sheet-append-only-log/query.png)
 
