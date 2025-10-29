@@ -9,11 +9,11 @@ append-only logs show up everywhere: database write-ahead logs, kafka topics, gi
 
 here's the sheet if you want to follow along at home, or adjust for your own uses: <https://docs.google.com/spreadsheets/d/1uSnwpaANF7Ng_4-tehIlXysvoYlZJUtFmdOPUqQlkdg/edit?usp=sharing>
 
-the `log` sheet is the raw feed. four columns: `date`, `task` (basically the topic), `status` (essentially an enum that's used for coloring the columns in the view), and a free-text `update`. `date` is plain text and I stamp it with `ctrl+;` (or type the full timestamp). `status` uses a dropdown for convenience. the rule is absolute: never edit or delete a row - append another one instead.
+the `log` sheet is the raw feed. this is where edits go. four columns: `date`, `task` (basically the topic), `status` (essentially an enum that's used for coloring the columns in the view), and a free-text `update`. `date` is plain text and I stamp it with `ctrl+;` (or type the full timestamp). `status` uses a dropdown for convenience. the rule is absolute: never edit or delete a row - append another one instead.
 
 ![append-only log sheet](/assets/google-sheet-append-only-log/log.png)
 
-the `view` sheet has one row for each text - the most recently appended row. so it functions as a "current status" view into every task.
+the `view` sheet consists of a single formula, and is meant to be read-only. the forumula emits the most recently appended row for each task. so it functions as a "current status" view into every task.
 
 ```
 =LET(
