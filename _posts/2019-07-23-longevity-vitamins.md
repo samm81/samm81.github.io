@@ -11,9 +11,9 @@ But I was not to be deterred. I reached out to the primary author, [Dr. Bruce Am
 
 ### Prolonging Healthy Aging Article Summary
 
-Dr. Ames, in previous work, studied Selenium and Vitamin K. When the body consumes "just enough" (aka the daily recommended doses) or less of these two Vitamin/Minerals (V/Ms) it uses them for processes that are critical to survival (hence the word "essential" in "essential vitamins and minerals"). But his lab found that when these two V/Ms are *over consumed* the body proceeds to *further* engage in more processes that aren't survival critical but are required for long term maintenance. In Ames' current paper he takes this evidence to it's (probable) natural conclusion: it's highly likely that *all* essential vitamins and minerals undergo a similar "triage" process.
+Dr. Ames, in previous work, studied Selenium and Vitamin K. When the body consumes "just enough" (aka the daily recommended doses) or less of these two Vitamin/Minerals (V/Ms) it uses them for processes that are critical to survival (hence the word "essential" in "essential vitamins and minerals"). But his lab found that when these two V/Ms are _over consumed_ the body proceeds to _further_ engage in more processes that aren't survival critical but are required for long term maintenance. In Ames' current paper he takes this evidence to it's (probable) natural conclusion: it's highly likely that _all_ essential vitamins and minerals undergo a similar "triage" process.
 
-Dr. Ames doesn't explicitly go on to recommend an increase in intake - instead the summary article talks about the benefits of eating a healthy and balanced diet 😴 But, if you have a lightning fast mind like mine, you'll immediately see the obvious conclusion. Perhaps the reason that V/M supplements haven't been clinically shown to have effects on overall health or longevity is *simply because the dosages weren't high enough*.
+Dr. Ames doesn't explicitly go on to recommend an increase in intake - instead the summary article talks about the benefits of eating a healthy and balanced diet 😴 But, if you have a lightning fast mind like mine, you'll immediately see the obvious conclusion. Perhaps the reason that V/M supplements haven't been clinically shown to have effects on overall health or longevity is _simply because the dosages weren't high enough_.
 
 Personally, I think it's worth a shot. Throwing a bunch of extra vitamins at your body can't do any harm! So long as you're careful to stay under clinically set upper limits. And so long as you have no pre-existing medical conditions. And you don't take other interacting medications. And you make sure to adjust for age and pregnancy status.
 
@@ -26,15 +26,15 @@ Lets start by taking a look at the recommended daily intake and upper limits for
 Values are generally for ages 18-50, \* indicates the Upper Limit is on supplements, \+ indicates that the upper limit is total consumption (including foods)
 
 | Vitamin/Mineral                 | Daily Intake (Men) | Daily Intake (Women) | Upper Limit |
-|---------------------------------|--------------------|----------------------|-------------|
-| [Vitamin A]                     | 5000 IU            | 5000 IU              | 10000 IU *  |
+| ------------------------------- | ------------------ | -------------------- | ----------- |
+| [Vitamin A]                     | 5000 IU            | 5000 IU              | 10000 IU \* |
 | [Vitamin B1 (Thiamin)]          | 1.2 mg             | 1.1 mg               | None        |
 | [Vitamin B2 (Riboflavin)]       | 1.3 mg             | 1.1 mg               | None        |
-| [Vitamin B3 (Niacin)]           | 16 mg NE           | 14 mg NE             | 35 mg *     |
-| [Vitamin B5 (Pantothenic acid)] | 5 mg               | 5 mg                 | 10000 mg *  |
+| [Vitamin B3 (Niacin)]           | 16 mg NE           | 14 mg NE             | 35 mg \*    |
+| [Vitamin B5 (Pantothenic acid)] | 5 mg               | 5 mg                 | 10000 mg \* |
 | [Vitamin B6]                    | 1.3 mg             | 1.3 mg               | 100 mg +    |
 | [Vitamin B7 (Biotin)]           | 30 mcg             | 30 mcg               | None        |
-| [Vitamin B9 (Folic acid)]       | 400 mcg DFE        | 400 mcg DFE          | 1000 mcg *  |
+| [Vitamin B9 (Folic acid)]       | 400 mcg DFE        | 400 mcg DFE          | 1000 mcg \* |
 | [Vitamin B12]                   | 2.4 mcg            | 2.4 mcg              | None        |
 | [Vitamin C]                     | 90 mg              | 75 mg                | 2000 mg +   |
 | [Vitamin D]                     | 600 IU             | 600 IU               | 4000 IU +   |
@@ -48,7 +48,7 @@ Values are generally for ages 18-50, \* indicates the Upper Limit is on suppleme
 | [Copper]                        | 900 mcg            | 900 mcg              | 10 mg +     |
 | [Iodine]                        | 150 mcg            | 150 mcg              | 1100 mcg +  |
 | [Iron]                          | 8 mg               | 18 mg                | 45 mg +     |
-| [Magnesium]                     | 400-420 mg         | 310-320 mg           | 350 mg *    |
+| [Magnesium]                     | 400-420 mg         | 310-320 mg           | 350 mg \*   |
 | [Manganese]                     | 2.3 mg             | 1.8 mg               | 11 mg +     |
 | [Molybdenum]                    | 45 mcg             | 45 mcg               | 2000 mcg +  |
 | [Phosphorus]                    | 700 mg             | 700 mg               | 4000 mg +   |
@@ -62,12 +62,12 @@ Values are generally for ages 18-50, \* indicates the Upper Limit is on suppleme
 [Vitamin B1 (Thiamin)]: https://ods.od.nih.gov/factsheets/Thiamin-Consumer/
 [Vitamin B2 (Riboflavin)]: https://ods.od.nih.gov/factsheets/Riboflavin-Consumer/
 [Vitamin B3 (Niacin)]: https://ods.od.nih.gov/factsheets/Niacin-Consumer/
-[Vitamin B5  (Pantothenic acid)]: https://ods.od.nih.gov/factsheets/PantothenicAcid-Consumer/
+[Vitamin B5 (Pantothenic acid)]: https://ods.od.nih.gov/factsheets/PantothenicAcid-Consumer/
 [Vitamin B6]: https://ods.od.nih.gov/factsheets/VitaminB6-Consumer/
 [Vitamin B7 (Biotin)]: https://ods.od.nih.gov/factsheets/Biotin-Consumer/
-[Vitamin B9  (Folic acid)]: https://ods.od.nih.gov/factsheets/Folate-Consumer/
+[Vitamin B9 (Folic acid)]: https://ods.od.nih.gov/factsheets/Folate-Consumer/
 [Vitamin B12]: https://ods.od.nih.gov/factsheets/VitaminB12-Consumer/
-[Vitamin C]:  https://ods.od.nih.gov/factsheets/VitaminC-Consumer/
+[Vitamin C]: https://ods.od.nih.gov/factsheets/VitaminC-Consumer/
 [Vitamin D]: https://ods.od.nih.gov/factsheets/VitaminD-Consumer/
 [Vitamin E]: https://ods.od.nih.gov/factsheets/VitaminE-Consumer/
 [Vitamin K]: https://ods.od.nih.gov/factsheets/VitaminK-Consumer/
@@ -91,7 +91,7 @@ Values are generally for ages 18-50, \* indicates the Upper Limit is on suppleme
 I have a supplement I started taking while traveling abroad (it's hard to eat as healthy [as a tourist!][8]) Let's take a look at what's in it:
 
 | Vitamin/Mineral               | Amount  |
-|-------------------------------|---------|
+| ----------------------------- | ------- |
 | Vitamin A                     | 3500 IU |
 | Vitamin B1 (Thiamin)          | 1.5 mg  |
 | Vitamin B2 (Riboflavin)       | 1.7 mg  |
@@ -131,27 +131,27 @@ Let's start by assuming that I already get the recommended daily intake from my 
 
 \* means that the Upper Limit applies to supplements only, so this value should be considered as 0
 
-| Vitamin/Mineral | Daily Intake (starting point) | Pill Dosage | Daily Intake + Two Pills | Upper Limit | Margin for Error (Upper Limit - (Daily Intake + Two Pills) |
-|-------------------------------|---------|---------|---------|----------|-----------|
-| Vitamin A                     | *       | 3500 IU | 7000 IU | 10000 IU | 3000 IU   |
-| Vitamin B3 (Niacin)           | *       | 20 mg   | 40 mg   | 35 mg    | **-5 mg** |
-| Vitamin B5 (Pantothenic acid) | *       | 10 mg   | 20 mg   | 10000 mg | 9980 mg   |
-| Vitamin B6                    | 1.3 mg  | 2 mg    | 5.3 mg  | 100 mg   | 94.7 mg   |
-| Vitamin B9 (Folic acid)       | *       | 400 mcg | 800 mcg | 1000 mcg | 200 mcg   |
-| Vitamin C                     | 90 mg   | 60 mg   | 210 mg  | 2000 mg  | 1790 mg   |
-| Vitamin D                     | 600 IU  | 1000 IU | 2600 IU | 4000 IU  | 1400 IU   |
-| Vitamin E                     | 22.4 IU | 30 IU   | 82.4 IU | 400 IU   | 317.6 IU  |
-| Calcium                       | 1000 mg | 200 mg  | 1400 mg | 2500 mg  | 1100 mg   |
-| Chloride                      | 2.0 g   | 72 mg   | 2.14 g  | 3.6 g    | 1.46 g    |
-| Copper                        | 900 mcg | 0.5 mg  | 1.9 mg  | 10 mg    | 8.1 mg    |
-| Iodine                        | 150 mcg | 150 mcg | 450 mcg | 1100 mcg | 650 mcg   |
-| Iron                          | 8 mg    | 18 mg   | 44 mg   | 45 mg    | 1 mg      |
-| Magnesium                     | *       | 50 mg   | 100 mg  | 350 mg   | 250 mg    |
-| Manganese                     | 2.3 mg  | 2.3 mg  | 6.9 mg  | 11 mg    | 4.1 mg    |
-| Molybdenum                    | 45 mcg  | 45 mcg  | 135 mcg | 2000 mcg | 1865 mcg  |
-| Phosphorus                    | 700 mg  | 20 mg   | 740 mg  | 4000 mg  | 3260 mg   |
-| Selenium                      | 55 mcg  | 55 mcg  | 165 mcg | 400 mcg  | 235 mcg   |
-| Zinc                          | 11 mg   | 11 mg   | 33 mg   | 40 mg    | 6 mg      |
+| Vitamin/Mineral               | Daily Intake (starting point) | Pill Dosage | Daily Intake + Two Pills | Upper Limit | Margin for Error (Upper Limit - (Daily Intake + Two Pills) |
+| ----------------------------- | ----------------------------- | ----------- | ------------------------ | ----------- | ---------------------------------------------------------- |
+| Vitamin A                     | \*                            | 3500 IU     | 7000 IU                  | 10000 IU    | 3000 IU                                                    |
+| Vitamin B3 (Niacin)           | \*                            | 20 mg       | 40 mg                    | 35 mg       | **-5 mg**                                                  |
+| Vitamin B5 (Pantothenic acid) | \*                            | 10 mg       | 20 mg                    | 10000 mg    | 9980 mg                                                    |
+| Vitamin B6                    | 1.3 mg                        | 2 mg        | 5.3 mg                   | 100 mg      | 94.7 mg                                                    |
+| Vitamin B9 (Folic acid)       | \*                            | 400 mcg     | 800 mcg                  | 1000 mcg    | 200 mcg                                                    |
+| Vitamin C                     | 90 mg                         | 60 mg       | 210 mg                   | 2000 mg     | 1790 mg                                                    |
+| Vitamin D                     | 600 IU                        | 1000 IU     | 2600 IU                  | 4000 IU     | 1400 IU                                                    |
+| Vitamin E                     | 22.4 IU                       | 30 IU       | 82.4 IU                  | 400 IU      | 317.6 IU                                                   |
+| Calcium                       | 1000 mg                       | 200 mg      | 1400 mg                  | 2500 mg     | 1100 mg                                                    |
+| Chloride                      | 2.0 g                         | 72 mg       | 2.14 g                   | 3.6 g       | 1.46 g                                                     |
+| Copper                        | 900 mcg                       | 0.5 mg      | 1.9 mg                   | 10 mg       | 8.1 mg                                                     |
+| Iodine                        | 150 mcg                       | 150 mcg     | 450 mcg                  | 1100 mcg    | 650 mcg                                                    |
+| Iron                          | 8 mg                          | 18 mg       | 44 mg                    | 45 mg       | 1 mg                                                       |
+| Magnesium                     | \*                            | 50 mg       | 100 mg                   | 350 mg      | 250 mg                                                     |
+| Manganese                     | 2.3 mg                        | 2.3 mg      | 6.9 mg                   | 11 mg       | 4.1 mg                                                     |
+| Molybdenum                    | 45 mcg                        | 45 mcg      | 135 mcg                  | 2000 mcg    | 1865 mcg                                                   |
+| Phosphorus                    | 700 mg                        | 20 mg       | 740 mg                   | 4000 mg     | 3260 mg                                                    |
+| Selenium                      | 55 mcg                        | 55 mcg      | 165 mcg                  | 400 mcg     | 235 mcg                                                    |
+| Zinc                          | 11 mg                         | 11 mg       | 33 mg                    | 40 mg       | 6 mg                                                       |
 
 So as it turns out, if I doubled my dosage (two pills a day) the only line I would cross would be the limit on Vitamin B3 (Niacin). I'm toeing the line on Iron and Zinc as well, but for the remaining V/Ms I have quite a margin!
 
@@ -161,30 +161,30 @@ Ideally I'd also find some other supplement to cover the V/Ms that this one is m
 
 ### Longevity Vitamins
 
-Dr. Ames goes on to justify classifying eleven substances (some of which are already "essential" V/Ms) as "longevity" V/Ms. Although in theory *all* the essential V/Ms could be undergoing some triage process, these eleven are ones that Dr. Ames has more reason to believe are essential for healthy aging. I've summarized his reasons briefly.
+Dr. Ames goes on to justify classifying eleven substances (some of which are already "essential" V/Ms) as "longevity" V/Ms. Although in theory _all_ the essential V/Ms could be undergoing some triage process, these eleven are ones that Dr. Ames has more reason to believe are essential for healthy aging. I've summarized his reasons briefly.
 
 \* indicates that this V/M is already an essential V/M, bolded items are new
 
-* Vitamin K * : Necessary for the function of 16 enzymes. Inadequacy causes all-cause and cardiovascular mortality.
-* Selenium * : Necessary for function of 25 enzymes. Selenium supplementation showed a more than 40% reduced risk of cardiovascular mortality risk. Also reduced hypertension, impaired cardiac function and diabetes.
-* Vitamin D * : Inadequate in 70% of US population, particularly among dark-skinned people. Thought to be useful only for protecting against rickets. Shown to produce a hormone that has 2,700 binding sites on human DNA.
-* **Marine Omega-3 Fatty Acids, DHA and EPA**: Inadequate in most of US population. Low levels correlated with increased all-cause mortality. 1% increase in DHA/EPA linked with 20% decreased risk in all-cause mortality. Present in high levels in nervous system. Low levels associated with faster telomere shortening (a marker of cell aging).
-* Magnesium * : Inadequate in 45% of US population. Deficiency associated with cardiovascular disease, increased all-cause mortality, poor DNA repair capacity, cancer, heart disease, telomere shortening, strokes.
-* Choline * : Synthesized naturally, but not to sufficient levels. Deficiency results in DNA strand breaks in rodents, alterations to epigenetic markers and histones, and affects brain development.
-* **Taurine**: Synthesized naturally, but not to sufficient levels. Helps prevent cardiovascular disease, diabetes, brain dysfunction, and various mitochondrial diseases. The Japanese in Okinawa have a very high taurine intake, and very long lifespan. By contrast, Japanese living abroad in Brazil consuming very little taurine had a 17 year shorter lifespan.
-* **Ergothioneine (ESH)**: Present in human diet, and found naturally in human tissue. Used in protein transport system, linked to cardiovascular disease prevention, and functions as an antioxidant.
-* **Pyrroloquinoline Quinone (PQQ)**: Made by bacteria, not by humans or plants. Has benefits for diabetes, antioxidant activity, neuro-protection, cognition, anti-inflammation, and increased mitochondrial efficiency.
-* **Queuine**: Queuine-deficient mice die within 18 days of withdrawal. Queuine has been used to elicit a full remission from multiple sclerosis in mice.
-* **Carotenoids**: Synthesized by plants but not animals. Low intake associated with all-cause mortality, macular (part of the eye) degeneration and associated blindness, cognitive decline, cardiovascular disease, cancer, metabolic syndrome, oxidative damage to DNA, high blood pressure, hearing loss, decreased visual acuity, inflammation, and immune decay.
+- Vitamin K \* : Necessary for the function of 16 enzymes. Inadequacy causes all-cause and cardiovascular mortality.
+- Selenium \* : Necessary for function of 25 enzymes. Selenium supplementation showed a more than 40% reduced risk of cardiovascular mortality risk. Also reduced hypertension, impaired cardiac function and diabetes.
+- Vitamin D \* : Inadequate in 70% of US population, particularly among dark-skinned people. Thought to be useful only for protecting against rickets. Shown to produce a hormone that has 2,700 binding sites on human DNA.
+- **Marine Omega-3 Fatty Acids, DHA and EPA**: Inadequate in most of US population. Low levels correlated with increased all-cause mortality. 1% increase in DHA/EPA linked with 20% decreased risk in all-cause mortality. Present in high levels in nervous system. Low levels associated with faster telomere shortening (a marker of cell aging).
+- Magnesium \* : Inadequate in 45% of US population. Deficiency associated with cardiovascular disease, increased all-cause mortality, poor DNA repair capacity, cancer, heart disease, telomere shortening, strokes.
+- Choline \* : Synthesized naturally, but not to sufficient levels. Deficiency results in DNA strand breaks in rodents, alterations to epigenetic markers and histones, and affects brain development.
+- **Taurine**: Synthesized naturally, but not to sufficient levels. Helps prevent cardiovascular disease, diabetes, brain dysfunction, and various mitochondrial diseases. The Japanese in Okinawa have a very high taurine intake, and very long lifespan. By contrast, Japanese living abroad in Brazil consuming very little taurine had a 17 year shorter lifespan.
+- **Ergothioneine (ESH)**: Present in human diet, and found naturally in human tissue. Used in protein transport system, linked to cardiovascular disease prevention, and functions as an antioxidant.
+- **Pyrroloquinoline Quinone (PQQ)**: Made by bacteria, not by humans or plants. Has benefits for diabetes, antioxidant activity, neuro-protection, cognition, anti-inflammation, and increased mitochondrial efficiency.
+- **Queuine**: Queuine-deficient mice die within 18 days of withdrawal. Queuine has been used to elicit a full remission from multiple sclerosis in mice.
+- **Carotenoids**: Synthesized by plants but not animals. Low intake associated with all-cause mortality, macular (part of the eye) degeneration and associated blindness, cognitive decline, cardiovascular disease, cancer, metabolic syndrome, oxidative damage to DNA, high blood pressure, hearing loss, decreased visual acuity, inflammation, and immune decay.
 
 We've already looked at the daily intake and upper limits for the essential V/Ms, so now lets take a look at our six new substances.
 
 \* indicates the Upper Limit is on supplements, \+ indicates that the upper limit is total consumption (including foods)
 
 | Substance                                 | Daily Intake  | Upper Limit                                |
-|-------------------------------------------|---------------|--------------------------------------------|
-| [Marine Omega-3 Fatty Acids, DHA and EPA] | Not Specified | 2 g *                                      |
-| [Taurine]                                 | 500-2000 mg   | 3000 mg *                                  |
+| ----------------------------------------- | ------------- | ------------------------------------------ |
+| [Marine Omega-3 Fatty Acids, DHA and EPA] | Not Specified | 2 g \*                                     |
+| [Taurine]                                 | 500-2000 mg   | 3000 mg \*                                 |
 | [Ergothioneine (ESH)]                     | 30 mg         | Unknown                                    |
 | [Pyrroloquinoline Quinone (PQQ)]          | ???           | A study used 20 mg once and that seemed ok |
 | Queuine                                   | ???           | ???                                        |
@@ -206,15 +206,15 @@ I am not a doctor. And of course the best path to a long and healthy life is exe
 As a bonus, after digging around on Amazon some, I came up with the following starter pack:
 
 | Name                                           | Sam's Recommended Dosage | Price for 200 days |
-|------------------------------------------------|--------------------------|--------------------|
+| ---------------------------------------------- | ------------------------ | ------------------ |
 | [Centrum Multivitamin]                         | 2/day                    | $16.88             |
 | [NusaPure Choline]                             | 1/day                    | $12.99             |
 | [Now Omega-3]                                  | 2/day                    | $17.24             |
 | [Nutricost Taurine]                            | 1/day                    | $7.48              |
 | [Jarrow Formulas Mushroom Optimizer (for ESH)] | 1/day                    | $18.89             |
 | [Health Thru Nutrition PQQ]                    | 1/day                    | $56.22             |
-| Sum                                            | *                        | **$129.70**        |
-| Price per Day                                  | *                        | **$0.65**          |
+| Sum                                            | \*                       | **$129.70**        |
+| Price per Day                                  | \*                       | **$0.65**          |
 
 [Centrum Multivitamin]: https://www.amazon.com/Centrum-Multivitamin-Multimineral-Supplement-Vitamin/dp/B003G4BP5G/
 [NusaPure Choline]: https://www.amazon.com/Bitartrate-Capsules-Cognitive-Function-Development/dp/B078WY16BT/

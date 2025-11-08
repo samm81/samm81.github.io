@@ -50,7 +50,7 @@ point( [ true, true, false, true, false .... ]);
 
 Roughly speaking it works like this: `turns` is an array of boolean values, representing whether or not we chatted in that hour. `translate_vec`, and `deg` are constants that represent how much to move forward and how much to turn respectively. First we check if the current value in `turns`. If `true`, we move forward (`translate(translate_vec)`), draw the sphere representing this hour (`sphere(r, $fn=fn)`), and recursively call ourself, advancing `idx` by one. If the value in `turns` is `false`, we do the same thing, but also first rotate ourselves inward by `deg` (`rotate(deg)`). This works because in the recursive call our new state is the transformed old one, so all these transforms and rotates stack.
 
-The first immediate problem was one of magnitude. We are celebrating our one and a half year anniversary, which obviously means a lot of hours. 13,370 to be exact. And since every hour has it's own sphere, that means 13,370 spheres. OpenSCAD can handle tens of thousands of objects, but what I found out is that it cannot handle tens of thousands of nested rotates. I got about a couple hundred to render, but if I started trying to go past 1,000 OpenSCAD would crash on me inexplicably. With some googling I discovered the OpenSCAD has a [*hardcoded maximum recursion depth of several thousand*][6]. OpenSCAD does support tail recursion elimination, but I don't think this code can be refactored to work with tail recursion elimination, since you need to keep all those previous rotates and translates in memory. So that option was out the window....
+The first immediate problem was one of magnitude. We are celebrating our one and a half year anniversary, which obviously means a lot of hours. 13,370 to be exact. And since every hour has it's own sphere, that means 13,370 spheres. OpenSCAD can handle tens of thousands of objects, but what I found out is that it cannot handle tens of thousands of nested rotates. I got about a couple hundred to render, but if I started trying to go past 1,000 OpenSCAD would crash on me inexplicably. With some googling I discovered the OpenSCAD has a [_hardcoded maximum recursion depth of several thousand_][6]. OpenSCAD does support tail recursion elimination, but I don't think this code can be refactored to work with tail recursion elimination, since you need to keep all those previous rotates and translates in memory. So that option was out the window....
 
 [6]: https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/User-Defined_Functions_and_Modules#Recursive_functions
 
@@ -65,6 +65,7 @@ The problem isn't the number of objects, it's the fact that OpenSCAD has to keep
 [7]: https://www.youtube.com/watch?v=3M_5oYU-IsU
 
 {% raw %}
+
 ```python
 def normalize(total, vec):
   length = sqrt(vec[0] ** 2 + vec[1] ** 2)
@@ -90,6 +91,7 @@ with open('earring_points.scad', 'w') as scadfile:
     pos_vec = [ old_pos_comp + vel_comp for old_pos_comp, vel_comp in zip(pos_vec, vel_vec) ]
     scadfile.write('translate({}){{\nsphere(r, $fn=fn);\n}}\n'.format(str(pos_vec)))
 ```
+
 {% endraw %}
 
 Rather than using rotates and transforms, I kept track of a current position vector (initially 0), a velocity vector (initially slightly positive in the y direction), and an acceleration vector (initially 0). From there it was pretty simply. Loop through the hours. If we had chatted, set the acceleration vector to 0. If not, set the acceleration vector to point 90 degrees to the left from the velocity vector. This is what would cause the inward rotation. Add the acceleration vector to the velocity vector, normalize the velocity vector, add the velocity vector to the current position, and we have our new position! Append another simple translate-and-place-sphere OpenSCAD command to an output file, and in the end we have 13,370 spheres ready for rendering. The 'compiled' file looked something like this:

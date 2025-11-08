@@ -23,7 +23,7 @@ xprop -id `xprop -root 2>/dev/null | grep "_NET_ACTIVE_WINDOW(WINDOW)" | cut -d#
 
 Doing some investigation (pulling up the terminal and running the above commands) revealed that the commands indeed did not work. For some reason `xprop -root` did not return any row which contained `"_NET_ACTIVE_WINDOW(WINDOW)"`. Interesting.
 
-Of course, when you use a window manager as niche as dwm googling "dwm no _NET_ACTIVE_WINDOW(WINDOW) in xprop -root" doesn't really get you very far. But I figure there's someone else out there that uses both dwm and RescueTime, so I wrote this blog post so that their desperate googling will no longer be in vain. I did the hard work of trawling through the [dwm mailing list archives][3] to find the thread about [supporting _NET_ACTIVE_WINDOW][4], which contained an email from a fine fine man named Andreas Amann, who [wrote a patch to add _NET_ACTIVE_WINDOW support][5] which has a permalink here: [https://lists.suckless.org/dev/att-10649/netactivewindow][6].
+Of course, when you use a window manager as niche as dwm googling "dwm no \_NET_ACTIVE_WINDOW(WINDOW) in xprop -root" doesn't really get you very far. But I figure there's someone else out there that uses both dwm and RescueTime, so I wrote this blog post so that their desperate googling will no longer be in vain. I did the hard work of trawling through the [dwm mailing list archives][3] to find the thread about [supporting \_NET_ACTIVE_WINDOW][4], which contained an email from a fine fine man named Andreas Amann, who [wrote a patch to add \_NET_ACTIVE_WINDOW support][5] which has a permalink here: [https://lists.suckless.org/dev/att-10649/netactivewindow][6].
 
 [3]: https://lists.suckless.org/dev/subject.html
 [4]: https://lists.suckless.org/dev/1201/10531.html

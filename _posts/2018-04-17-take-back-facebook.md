@@ -16,6 +16,7 @@ So what, exactly, is my problem with Facebook? Well, [study][2] after [study][3]
 Facebook isn't all bad. It can be a tool to keep up with family and friends you don't have frequent contact with. People use it to organize and find events or parties or concerts. You can chat friends! Facebook was, once upon a time, a tool, and a useful one at that. Why has it become such a soul sucking waste of time now?
 
 Certainly a large part of it is due to [the Skinner Effect][5], the need for social validation, the memes, etc. But Facebook also pulls a wide variety of UI and color tricks in order to keep you on the website as long as possible. Things like real time popups, a carefully tested and selected blue, and infinite scroll are all great examples of the psychological tricks they play. But what initially got me interested was from an article that mentioned something curious about Facebook's initial design choices:
+
 > designers initially decided the notification icon, which alerts people to new activity such as “friend requests” or “likes”, should be blue. It fit Facebook’s style and, the thinking went, would appear “subtle and innocuous”. “But no one used it,” Harris says. “Then they switched it to red and of course everyone used it.”
 
 [5]: https://www.theatlantic.com/technology/archive/2013/06/skinner-marketing-were-the-rats-and-facebook-likes-are-the-reward/276613/

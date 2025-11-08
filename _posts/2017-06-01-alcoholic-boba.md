@@ -43,11 +43,10 @@ It wasn't amazing. But, incredibly enough, it was passable. It pushes the limits
 A summary of sentiments from around the table, for any future alcohol-boba adventurers:
 
 | Stella Green Tea | Not tried |
-| JD Green Tea     | Eh        |
-| BobaSour         | Eh        |
-| LeGINdary Leia   | Good      |
-| Bobagasm         | Excellent |
-| Fuego Mango      | Eh        |
-| Mic Jaeger       | Not tried |
-| SpongeBoba       | Excellent |
-
+| JD Green Tea | Eh |
+| BobaSour | Eh |
+| LeGINdary Leia | Good |
+| Bobagasm | Excellent |
+| Fuego Mango | Eh |
+| Mic Jaeger | Not tried |
+| SpongeBoba | Excellent |

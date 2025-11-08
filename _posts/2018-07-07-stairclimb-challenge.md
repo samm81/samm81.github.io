@@ -9,18 +9,18 @@ There's a fun and healthy tradition that takes place at my internship for this s
 
 A crude but simple and effective method of counting the stairs as I walked up them was employed. Here were the findings:
 
-* The building does, in fact, have 21 floors, as advertised.
-* Each floor is split into two stairwells, one upper and one lower. In order to ascend a whole floor, you must ascend the lower stairwell, pivot on the landing, and then ascend the upper stairwell.
-* 21 floors - starting on the 2nd floor = 19 floors climbed
-* 19 floors climbed * 2 stairwells per floor = 38 stairwells to climb
-* Using a zero-indexed schema:
-  * the 0th and 1st stairwells consist of 10 steps
-  * the 2nd and 3rd stairwells consist of 12 steps
-  * the 4th and 5th stairwells consist of 14 steps
-  * stairwells 6 through 34 consist of 10 steps
-  * the 35th stairwell consists of 15 steps (!)
-  * the 36th and 37th stairwells (the final two) consist of 11 steps
-  * `[10, 10, 12, 12, 14, 14, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 15, 11, 11]`
+- The building does, in fact, have 21 floors, as advertised.
+- Each floor is split into two stairwells, one upper and one lower. In order to ascend a whole floor, you must ascend the lower stairwell, pivot on the landing, and then ascend the upper stairwell.
+- 21 floors - starting on the 2nd floor = 19 floors climbed
+- 19 floors climbed \* 2 stairwells per floor = 38 stairwells to climb
+- Using a zero-indexed schema:
+  - the 0th and 1st stairwells consist of 10 steps
+  - the 2nd and 3rd stairwells consist of 12 steps
+  - the 4th and 5th stairwells consist of 14 steps
+  - stairwells 6 through 34 consist of 10 steps
+  - the 35th stairwell consists of 15 steps (!)
+  - the 36th and 37th stairwells (the final two) consist of 11 steps
+  - `[10, 10, 12, 12, 14, 14, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 15, 11, 11]`
 
 ### Analysis
 
@@ -54,44 +54,49 @@ Armed with this knowledge we can figure out exactly how many steps per minute on
 This gives us an excellent tool for pacing, but an even better tool for picking a song to climb to! Let's say we wanted to summit the stairs in 3.5 minutes. If we picked a song with a BPM of 125, took a step on every beat, and took two steps on every land (to pivot around), we'd make it up just in time! Of course if you're looking to make it up in a minute or less, you're probably on your own....
 
 Songs with a BPM of ~200 (2-2.5 minute summit):
-* Paradise City - Guns N' Roses
-* Naughty Girl - Beyonce
-* Josie - Blink 182
-* Nobody's Listening - Linkin Park
-* Addicted - Kelly Clarkson
-* [https://jog.fm/workout-songs/at/200/bpm?sort=popularity](https://jog.fm/workout-songs/at/200/bpm?sort=popularity)
+
+- Paradise City - Guns N' Roses
+- Naughty Girl - Beyonce
+- Josie - Blink 182
+- Nobody's Listening - Linkin Park
+- Addicted - Kelly Clarkson
+- [https://jog.fm/workout-songs/at/200/bpm?sort=popularity](https://jog.fm/workout-songs/at/200/bpm?sort=popularity)
 
 Songs with a BPM of 175 (2.5 minute summit):
-* Footloose - Kenny Loggins
-* Heartless - Kanye West
-* Love the Way You Lie - Eminem
-* Dancing With Myself - Billy Idol
-* Ocean Avenue - Yellowcard
-* [https://jog.fm/workout-songs/at/175/bpm?sort=popularity](https://jog.fm/workout-songs/at/175/bpm?sort=popularity)
+
+- Footloose - Kenny Loggins
+- Heartless - Kanye West
+- Love the Way You Lie - Eminem
+- Dancing With Myself - Billy Idol
+- Ocean Avenue - Yellowcard
+- [https://jog.fm/workout-songs/at/175/bpm?sort=popularity](https://jog.fm/workout-songs/at/175/bpm?sort=popularity)
 
 Songs with a BPM of 150 (3 minute summit):
-* Mr. Brightside - The Killers
-* I'm Yours - Jason Mraz
-* Brown Eyed Girl - Van Morrison
-* Holding Out for a Hero - Bonnie Tyler
-* We're Not Gonna Take It - Twisted Sister
-* [https://jog.fm/workout-songs/at/150/bpm?sort=popularity](https://jog.fm/workout-songs/at/150/bpm?sort=popularity)
+
+- Mr. Brightside - The Killers
+- I'm Yours - Jason Mraz
+- Brown Eyed Girl - Van Morrison
+- Holding Out for a Hero - Bonnie Tyler
+- We're Not Gonna Take It - Twisted Sister
+- [https://jog.fm/workout-songs/at/150/bpm?sort=popularity](https://jog.fm/workout-songs/at/150/bpm?sort=popularity)
 
 Songs with a BPM of 125 (3.5 minute summit):
-* Firework - Katy Perry
-* Only Girl (In the World) - Rihanna
-* Like a G6 - Far East Movement
-* Born This Way - Lady GaGa
-* Bulletproof - La Roux
-* [https://jog.fm/workout-songs/at/125/bpm?sort=popularity](https://jog.fm/workout-songs/at/125/bpm?sort=popularity)
+
+- Firework - Katy Perry
+- Only Girl (In the World) - Rihanna
+- Like a G6 - Far East Movement
+- Born This Way - Lady GaGa
+- Bulletproof - La Roux
+- [https://jog.fm/workout-songs/at/125/bpm?sort=popularity](https://jog.fm/workout-songs/at/125/bpm?sort=popularity)
 
 Song with a BPM of 110 (4 minute summit):
-* Eye of the Tiger - Survivor
-* Hollaback Girl - Gwen Stefani
-* Another One Bites the Dust - Queen
-* Just the Way You Are - Bruno Mars
-* Livin' On a Prayer - Bon Jovi
-* [https://jog.fm/workout-songs/at/110/bpm?sort=popularity](https://jog.fm/workout-songs/at/110/bpm?sort=popularity)
+
+- Eye of the Tiger - Survivor
+- Hollaback Girl - Gwen Stefani
+- Another One Bites the Dust - Queen
+- Just the Way You Are - Bruno Mars
+- Livin' On a Prayer - Bon Jovi
+- [https://jog.fm/workout-songs/at/110/bpm?sort=popularity](https://jog.fm/workout-songs/at/110/bpm?sort=popularity)
 
 You get the idea.
 

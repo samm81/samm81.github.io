@@ -61,7 +61,6 @@ Dear god, why??
 
 I hope my readers can forgive me.
 
-
 ![pusheen](/assets/pusheen-screensaver/pusheens/9.gif)
 
 My ex actually found an interesting bug in the code after years of usage. Pusheen can obviously only move across the screen a fixed number of pixels at a time, but when I tested it I felt like moving one pixel at a time was too slow, and two pixels at a time was too fast. What I ended up doing was making `speed` a double, and setting it to `1.2`. I also made `pos` (the position) a float, and when I rendered Pusheen to the screen I would just cast the `pos` double to an int. This meant that in practice, Pusheen moved forward one pixel at a time, but every 5 frames moved forward two pixels, making her appear to have a speed of 1.2 pixels pre frame.

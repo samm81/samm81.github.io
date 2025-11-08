@@ -41,7 +41,7 @@ title: Diaries from Buildathon
 
 13:03 I cannot get my goddamned item to print. The makerbot will just not load my flash drive.
 
-13:33 As I have to read through this story again and again and again in order to turn it into a code representation, I feel like pieces of it are starting to sink in deeper. Like I get it more. I never really valued re-reading before, but this forced re-reading is doing *something*.
+13:33 As I have to read through this story again and again and again in order to turn it into a code representation, I feel like pieces of it are starting to sink in deeper. Like I get it more. I never really valued re-reading before, but this forced re-reading is doing _something_.
 
 15:01 We have been judged. We have been judged as failures. We were not chosen as finalists. We were not really expecting to be chosen as finalists. The announcement still hurts. I continue improving the product. Rachel makes hot chocolate.
 

@@ -79,18 +79,18 @@ And now we are ready. A generous helping of boba was added to each and every gla
 
 We had three judges: [Paul Choi](https://github.com/pbjc), [Rachel Kao](https://github.com/racheljenniferkao), and me. Here were the scores:
 
-| | Paul Choi | Rachel Kao | Me | Average |
-| --- | --- | --- | --- | --- |
-| Milk Punch | 8 | 4 | 5 | 6 |
-| White Russian | 7 | 4 | 7 | 6 |
-| Vodka Mudslide | 8.5 | 8 | 6 | 7 |
-| The Cocoa | 5 | 8 | 6 | 7 |
-| The Tea | 4 | 1 | 8 | 4 |
-| Tea Steeped Milk | 8.6 | 10 | 7 | 8.5 |
+|                  | Paul Choi | Rachel Kao | Me  | Average |
+| ---------------- | --------- | ---------- | --- | ------- |
+| Milk Punch       | 8         | 4          | 5   | 6       |
+| White Russian    | 7         | 4          | 7   | 6       |
+| Vodka Mudslide   | 8.5       | 8          | 6   | 7       |
+| The Cocoa        | 5         | 8          | 6   | 7       |
+| The Tea          | 4         | 1          | 8   | 4       |
+| Tea Steeped Milk | 8.6       | 10         | 7   | 8.5     |
 
 In general, Rachel tended to favor the sweeter ones, I tended to favor the alcoholic ones, and Paul was middling.
 
-The Tea was a very divisive drink, drawing low ratings from our two other judges. Since this is my blog I get to defend my drink with no opposition 😈 I think it did a great job of being *clearly alcoholic* (read: you could taste the alcohol) while still complimenting the boba. I believe that the other two judges were just not sophisticated enough to recognize my genius.
+The Tea was a very divisive drink, drawing low ratings from our two other judges. Since this is my blog I get to defend my drink with no opposition 😈 I think it did a great job of being _clearly alcoholic_ (read: you could taste the alcohol) while still complimenting the boba. I believe that the other two judges were just not sophisticated enough to recognize my genius.
 
 In the end the drink with the highest rating was probably the least alcoholic of the bunch, only containing milk and elderflower. I would hesitate to even call it a real drink...
 

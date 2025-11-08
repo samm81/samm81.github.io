@@ -26,9 +26,9 @@ I had a UI optimizations which I was pretty proud of. In order to select how muc
    </video>
 </div>
 
-Overall I was very pleased with it! But... I stopped logging foods. As anyone who has ever counted calories before knows, it is *really annoying*. I actually fell out of the habit before I even finished the app, but stuck with the project just because I was most of the way there. I added some finishing touches, patted myself on the back, and pushed it to Github where it languished for two years.
+Overall I was very pleased with it! But... I stopped logging foods. As anyone who has ever counted calories before knows, it is _really annoying_. I actually fell out of the habit before I even finished the app, but stuck with the project just because I was most of the way there. I added some finishing touches, patted myself on the back, and pushed it to Github where it languished for two years.
 
-Fast forward to senior year when, for some reason, I take another look at the app I wrote. I set it up again and marvel at my genius design. It then occurs to me that if I remove the "log to Fitbit" functionality, I'm actually left with an even better product: a redesign of the UT's nutrition website! 
+Fast forward to senior year when, for some reason, I take another look at the app I wrote. I set it up again and marvel at my genius design. It then occurs to me that if I remove the "log to Fitbit" functionality, I'm actually left with an even better product: a redesign of the UT's nutrition website!
 
 But what to do with it...? I decided that maybe I could give it to UT. Wouldn't that be cool to have my code running on a real server, being shown to real students?
 
@@ -58,7 +58,7 @@ I waffled on a number, but needed to give them an answer. So finally I sat down 
 
 I waited patiently.
 
-Eleven days later I got another email. "They were very excited about the project *and the price point.* ... There are a few things that need to be addressed before we can move forward with a purchase of this software" (emphasis mine).
+Eleven days later I got another email. "They were very excited about the project _and the price point._ ... There are a few things that need to be addressed before we can move forward with a purchase of this software" (emphasis mine).
 
 On the one hand I was ecstatic. They were interested in buying it! On the other hand, them being excited about the price point meant that I definitely could have asked for more. Oh well! Lessons learned.
 

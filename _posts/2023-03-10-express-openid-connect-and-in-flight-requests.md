@@ -7,7 +7,7 @@ you've written your front end piece. you need serve it somehow. ok. spin up a qu
 
 for some reason when you try to log the user out, they get logged back in immediately. why do bad things happen to good people. ok. they click the button. it `window.location.assign('/logout')`s. that looks good. pop open the dev console (jk you already have it open because it's always open). `window.location.assign('/logout')`. that works, and doesn't log the user back in. hmm. you pop open the network tab and take a look:
 
-![](/assets/express-openid-connect-and-in-flight-requests/image_1678402611731_0.png) 
+![](/assets/express-openid-connect-and-in-flight-requests/image_1678402611731_0.png)
 
 hmmm...
 
