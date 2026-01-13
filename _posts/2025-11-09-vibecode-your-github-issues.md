@@ -3,9 +3,9 @@ layout: post
 title: vibecode your github issues
 ---
 
-this new era of vibecoding has subtly changed my relationship with my computer. I already have a habit of running almost exclusively open-source software on my [void-linux][13] box, and open-source software is fundamentally vibe-codable. encounter a bug? need a new feature? not sure what config option to use and don't want to spend an hour reading the manpage? clone the repo and vibecode it. vibecoding changes open-source from something you file issues against into something you directly adapt.
+this new era of vibecoding has subtly changed my relationship with my computer. I already have a habit of running almost exclusively open-source software on my [void-linux][9] box, and open-source software is fundamentally vibe-codable. encounter a bug? need a new feature? not sure what config option to use and don't want to spend an hour reading the manpage? clone the repo and vibecode it. vibecoding changes open-source from something you file issues against into something you directly adapt.
 
-[13]: https://voidlinux.org/
+[9]: https://voidlinux.org/
 
 open-source projects are, in many ways, the perfect place to loose a vibecoding agent.
 
@@ -20,10 +20,12 @@ assuming you already know the basic vibecoding loop, here’s a more concrete wo
 setup (once per project):
 
 1. clone the repo
-2. start up your choice of agent, and have it generate its own [`AGENTS.md` file][20].
+2. start up your choice of agent, and have it generate its own [`AGENTS.md` file][10].
 3. before diving into vibecoding, figure out how to build the project.
 4. (optional) symlink your newly built binary into your `PATH` somewhere - perhaps as `originaltoolname-vibe` or `originaltoolname-dev`
 5. go run your new `-vibe` binary somewhere and verify it works
+
+[10]: https://agents.md/
 
 fix it:
 
@@ -36,8 +38,6 @@ after it works (optional):
 
 10. start using the `-vibe` binary instead of the official one. or, drop the `-vibe` and put it earlier in your `PATH`. or, if you're feeling very daring, replace the original binary with your new vibecoded one.
 11. (optional) push your changes up and open a pull-request that solves your own bug/feature.
-
-[20]: https://agents.md/
 
 since I started defaulting to this workflow I've had several success stories. I don't know `go`, and I certainly didn't know anything about the [kopia][1] codebase, but I [opened a pr][2] to solve [my own issue][3]. the maintainer did a good amount massaging, but in the end it got merged!
 
@@ -64,6 +64,6 @@ try fixing one of your own issues before opening a ticket. you might end up fixi
 
 ---
 
-future work: I've really been into the idea of [nix][12]-ifying my whole computer and letting a vibecoding agent loose on the whole thing, since if it f\*cks the whole thing I can just use `nix` to rollback anyways 💫
+future work: I've really been into the idea of [nix][11]-ifying my whole computer and letting a vibecoding agent loose on the whole thing, since if it f\*cks the whole thing I can just use `nix` to rollback anyways 💫
 
-[12]: https://nixos.org/
+[11]: https://nixos.org/
