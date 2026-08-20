@@ -26,7 +26,7 @@ it does the job. it builds a [nomads.com style trip ledger][1] from a combinatio
 [6]: https://timeline.google.com/
 [7]: https://takeout.google.com/
 
-I've now got it `make deploy/prod`d to [my personal vps][10]. I point it at the gpx data, which is synced up with [syncthing][11], and the results are synced back down the same way. so now, without really thinking about it, I have a pretty good record of where in the world I was on any given day.
+I've now got it `make deploy/prod`'d to [my personal vps][10]. I point it at the gpx data, which is synced up with [syncthing][11], and the results are synced back down the same way. so now, without really thinking about it, I have a pretty good record of where in the world I was on any given day.
 
 [10]: https://github.com/samm81/mni.ac/commit/ce45896ba0808027742033c95e53a1ff272eb75a
 [11]: https://syncthing.net/
