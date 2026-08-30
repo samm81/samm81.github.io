@@ -30,3 +30,5 @@ I've now got it `make deploy/prod`'d to [my personal vps][10]. I point it at the
 
 [10]: https://github.com/samm81/mni.ac/commit/ce45896ba0808027742033c95e53a1ff272eb75a
 [11]: https://syncthing.net/
+
+ai disclaimer: I used an llm to help edit this post. the ideas, code, and final edits are mine, but some of the wording was machine-assisted.

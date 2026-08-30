@@ -37,3 +37,5 @@ add some conditional formatting (select entire sheet → Format menu → Conditi
 but why bother (besides fending off that pathological need to never lose data)? it unlocks all sorts of future analysis - most of which I never do, but I sleep better knowing I _could_. I can ask how many updates hit `blocked` last month, chart throughput over time, or export the whole thing into bigquery for a real query. if I want new metadata later I just add another column and it flows through automatically. append-only turns a throwaway sheet into something I can keep mining long after the kanban board is gone.
 
 (p.s. although the sheet and this blog post uses kanban as an example, if you change the `task` column to a `topic` column you arrive at a more generic append-only log !)
+
+ai disclaimer: I used an llm to help edit this post. the ideas, spreadsheet, and final edits are mine, but some of the wording was machine-assisted.

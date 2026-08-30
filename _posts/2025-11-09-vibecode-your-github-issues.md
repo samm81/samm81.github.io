@@ -67,3 +67,5 @@ try fixing one of your own issues before opening a ticket. you might end up fixi
 future work: I've really been into the idea of [nix][11]-ifying my whole computer and letting a vibecoding agent loose on the whole thing, since if it f\*cks the whole thing I can just use `nix` to rollback anyways 💫
 
 [11]: https://nixos.org/
+
+ai disclaimer: I used an llm to help edit this post. the ideas, code, and final edits are mine, but some of the wording was machine-assisted.
